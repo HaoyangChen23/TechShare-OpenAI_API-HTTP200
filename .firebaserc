@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "demo-techshare",
+    "techShare": "techshare-bef7e"
+  },
+  "targets": {},
+  "etags": {}
+}
